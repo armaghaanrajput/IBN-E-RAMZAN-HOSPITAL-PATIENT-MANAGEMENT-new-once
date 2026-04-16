@@ -1,0 +1,5 @@
+{
+  "name": "Hospitally - Patient Token & Invoice Management",
+  "description": "Professional hospital management software for patient registration, doctor assignment, and token/invoice generation.",
+  "requestFramePermissions": []
+}
